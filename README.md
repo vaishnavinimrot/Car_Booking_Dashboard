@@ -29,7 +29,8 @@ This dashboard provides a complete analysis of car booking data, including booki
 - Star Schema Data Modeling
 - Data Cleaning & Transformation
 - Time Intelligence Functions
-
+- Bookmarks & Navigation
+- Drill Down Functionality
 
 ## Dashboard Screenshots
 
@@ -47,5 +48,4 @@ This dashboard provides a complete analysis of car booking data, including booki
 
 ### Rating
 ![Vehicle Performance](https://github.com/vaishnavinimrot/Car_Booking_Dashboard/blob/main/Screenshot%202026-05-08%20205907.png)
-- Bookmarks & Navigation
-- Drill Down Functionality
+
