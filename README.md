@@ -29,5 +29,23 @@ This dashboard provides a complete analysis of car booking data, including booki
 - Star Schema Data Modeling
 - Data Cleaning & Transformation
 - Time Intelligence Functions
+
+
+## Dashboard Screenshots
+
+### Overall
+![Home Page](https://github.com/vaishnavinimrot/Car_Booking_Dashboard/blob/main/Screenshot%202026-05-08%20205556.png)
+
+### Vehical Type
+![Booking Analysis](https://github.com/vaishnavinimrot/Car_Booking_Dashboard/blob/main/Screenshot%202026-05-08%20205622.png)
+
+### Revenue 
+![Revenue Insights](https://github.com/vaishnavinimrot/Car_Booking_Dashboard/blob/main/Screenshot%202026-05-08%20205645.png)
+
+### Cancellation
+![Customer Analysis](https://github.com/vaishnavinimrot/Car_Booking_Dashboard/blob/main/Screenshot%202026-05-08%20205847.png)
+
+### Rating
+![Vehicle Performance](https://github.com/vaishnavinimrot/Car_Booking_Dashboard/blob/main/Screenshot%202026-05-08%20205907.png)
 - Bookmarks & Navigation
 - Drill Down Functionality
